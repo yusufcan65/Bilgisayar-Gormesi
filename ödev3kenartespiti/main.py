@@ -15,7 +15,7 @@ class EdgeDetector:
         return horizontal_edges + vertical_edges
 
 #PNG dosyasını oku ve gri tonlamaya çevir
-image_path = "deneme.png"
+image_path = "kenartespit.png"
 gray_image = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
 
 # Kenar tespiti yap
