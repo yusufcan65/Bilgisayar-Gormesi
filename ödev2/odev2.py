@@ -40,16 +40,16 @@ def analyze_profile_image(profile_url):
 
 # Fotograf URL'leri
 photo_urls = [
-    "https://icdn.ensonhaber.com/crop/1200x675/resimler/diger/kok/2024/10/27/671dd30c95bf3856.jpg",
-    "https://icdn.ensonhaber.com/crop/1200x0/resimler/diger/kok/2024/10/27/671e015e8291d232__w1200xh800.jpg",
-    "https://icdn.ensonhaber.com/crop/1200x0/resimler/diger/kok/2024/10/27/671e015cbb9b5228__w1200xh800.jpg",
-    "https://icdn.ensonhaber.com/crop/1200x675/resimler/diger/kok/2024/10/27/671dfe490f6a5916.jpg",
-    "https://icdn.ensonhaber.com/crop/1200x675/resimler/diger/kok/2024/10/25/671b86fb53934615.jpg",
-    "https://icdn.ensonhaber.com/crop/1200x675/resimler/diger/kok/2024/10/27/671d702c3a8d1985.jpg",
-    "https://icdn.ensonhaber.com/crop/1200x0/resimler/diger/kok/2024/10/27/671d703402fd2737__w1200xh881.jpg",
-    "https://icdn.ensonhaber.com/crop/1200x675/resimler/diger/kok/2024/10/27/671e0467998ad435.jpg",
-    "https://icdn.ensonhaber.com/crop/1200x0/resimler/diger/kok/2024/10/27/671e0492227c1415__w1200xh900.jpg",
-    "https://icdn.ensonhaber.com/crop/1200x0/resimler/diger/kok/2024/10/27/671e0495b7042387__w1200xh800.jpg",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhOGMjim8g23tPD_YbNKMQslaVh5Az-8M-YQ&s",
+    "https://www.haber49.net/wp-content/uploads/2024/07/AW249240_01.jpg",
+    "https://cdn.ntvspor.net/807e92d628324f4fb3d6240f8891619c.jpg?mode=crop&w=940&h=626",
+    "https://soihotel.com/wp-content/uploads/2021/09/vodafone-park-otel-soi-hotel.jpg",
+    "https://www.indyturk.com/sites/default/files/thumbnails/image/2023/06/25/1161416-1231986484.jpg",
+    "https://robbreport.com/wp-content/uploads/2020/02/classic-recreations-hit-man-mustang-03.gif",
+    "hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUt4G-_uqxzpcnw5idZ9vI4kutyKxPLml2A&s",
+    "https://assets.goal.com/images/v3/blt31afa9776895bf11/9d77b4eaba99bc478f4791011dc4e66d7791ea55.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+    "https://gezginyuzlersitesi.com/wp-content/uploads/cin-seddi-1_640x428.jpg",
+    "https://media.istockphoto.com/id/491411894/tr/foto%C4%9Fraf/aerial-view-of-capetown-south-africa.jpg?s=612x612&w=0&k=20&c=HjHrqJvD5SV25RKgThPilwj--IHOKZxoJQnhQmeB42Y=",
 ]
 
 # Her bir fotograf için analiz yap
